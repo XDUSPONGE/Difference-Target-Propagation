@@ -1,5 +1,5 @@
 # Difference Target Propagation
-Reiplement the difference target propagation based on PyTorch, the original code can be find
+The difference target propagation based on PyTorch, the original code can be find
 > https://github.com/donghyunlee/dtp
 ## Requirements
 * python 3.7
